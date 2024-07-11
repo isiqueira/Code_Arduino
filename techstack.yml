@@ -1,0 +1,31 @@
+repo_name: isiqueira/Code_Arduino
+report_id: 96f2910dbc4fe93c2d2a04c0fc67d18c
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-11T17:35:44+00:00'
+requested_by: isiqueira
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/isiqueira/Code_Arduino
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/isiqueira/Code_Arduino
+  detection_source: Repo Metadata
